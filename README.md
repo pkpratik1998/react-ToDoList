@@ -1,5 +1,5 @@
 # ReactJS Todo List project
-During the coding training at **MolenGeek** I made a Todo List to practice ReactJS.
+##I made a Todo List to practice ReactJS.
 
 ![Alt](https://raw.githubusercontent.com/pkpratik1998/react-ToDoList/master/screenshot.jpg)
 
